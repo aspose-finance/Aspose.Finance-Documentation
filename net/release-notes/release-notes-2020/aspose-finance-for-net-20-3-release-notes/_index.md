@@ -1,7 +1,7 @@
 ---
 title: Aspose.Finance for .NET 20.3 Release Notes
 type: docs
-weight: 20
+weight: 100
 url: /net/aspose-finance-for-net-20-3-release-notes/
 ---
 
@@ -19,6 +19,7 @@ Aspose.Finance for .NET has rich features
 - Read iXBRL format
 - XBRL validation
 - iXBRL validation
+
 # **Major Features**
 
 |**Key**|**Summary**|**Category**|
@@ -30,4 +31,3 @@ Aspose.Finance for .NET has rich features
 |FINANCENET-6|Implement iXBRL file import|New Feature|
 |FINANCENET-7|Implement XBRL validation functionality|New Feature|
 |FINANCENET-8|Implement iXBRLvalidation functionality|New Feature|
-
