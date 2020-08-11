@@ -5,11 +5,11 @@ weight: 100
 url: /net/aspose-finance-for-net-20-3-release-notes/
 ---
 
-{{% alert color="primary" %}} 
+{{% alert color="primary" %}}
 
 This page contains release notes for Aspose.Finance for .NET 20.3.
 
-{{% /alert %}} 
+{{% /alert %}}
 
 We are pleased to announce the first public release of Aspose.Finance for .NET. Aspose.Finance for .NET, as a pure .NET library provides much better performance and ease of use to manipulate finance related formats, such as XBRL, iXBRL. The finance API is extensible, easy to use and compact and provides all common functionality so developers write less code to do common operations.
 Aspose.Finance for .NET has rich features
@@ -20,7 +20,7 @@ Aspose.Finance for .NET has rich features
 - XBRL validation
 - iXBRL validation
 
-# **Major Features**
+# Major Features
 
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |
