@@ -20,7 +20,7 @@ Aspose.Finance, as a pure .NET library provides much better performance and ease
 The following are the links to some useful resources you may need to accomplish your tasks.
 
 - [Aspose.Finance for .NET Online Documentation](/finance/net/)
-- [Aspose.Finance for .NET Release Notes](/finance/net/release-notes)
+- [Aspose.Finance for .NET Release Notes](/finance/net/release-notes/)
 - [Aspose.Finance for .NET Product Page](https://products.aspose.com/finance/net)
 - [Install Aspose.Finance for .NET](/finance/net/installation/)
 - [Aspose.Finance for .NET API Reference Guide](https://apireference.aspose.com/finance/net)
