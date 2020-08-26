@@ -11,7 +11,7 @@ This page contains release notes for Aspose.Finance for .NET 20.8.
 
 {{% /alert %}}
 
-# Major Features
+## Major Features
 
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |
