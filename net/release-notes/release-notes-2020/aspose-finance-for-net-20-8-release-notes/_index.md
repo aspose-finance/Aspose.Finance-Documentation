@@ -1,7 +1,7 @@
 ---
 title: Aspose.Finance for .NET 20.8 Release Notes
 type: docs
-weight: 80
+weight: 70
 url: /net/aspose-finance-for-net-20-8-release-notes/
 ---
 
