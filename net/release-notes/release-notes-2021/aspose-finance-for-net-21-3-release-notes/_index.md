@@ -2,7 +2,7 @@
 title: Aspose.Finance for .NET 21.3 Release Notes
 type: docs
 weight: 70
-url: /net/aspose-finance-for-net-20-8-release-notes/
+url: /net/aspose-finance-for-net-21-3-release-notes/
 ---
 
 {{% alert color="primary" %}}
