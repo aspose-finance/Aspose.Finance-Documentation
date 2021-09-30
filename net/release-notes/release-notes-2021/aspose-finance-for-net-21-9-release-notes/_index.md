@@ -18,6 +18,7 @@ This page contains release notes for Aspose.Finance for .NET 21.9.
 |FINANCENET-74|Implement vaildation rule of the element of continution in ixbrl|Task|
 |FINANCENET-82|Implement vaildation rule of denominator element in ixbrl|Task|
 |FINANCENET-85|Implement vaildation rule of numerator element in ixbrl|Task|
+|FINANCENET-87|Sample code required to initialize TypedMemberElement for DimensionMember|Task|
 |FINANCENET-90|Fix the bug of can't get inline xbrl segment node |Bug|
 |FINANCENET-91|Fix the bug of can't get inline xbrl scenario node |Bug|
 |FINANCENET-99|Implement vaildation rule of header element in ixbrl|Task|
