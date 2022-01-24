@@ -7,5 +7,8 @@ url: /net/supported-file-formats/
 
 |**Format**|**Description**|**Load**|**Save**|
 | :- | :- | :- | :- |
-|XBRL|XBRL (eXtensible Business Reporting Language) is a freely available and global framework for exchanging business information.|{{< emoticons/tick >}}|{{< emoticons/tick >}}|
-|iXBRL|Inline XBRL is an open standard that enables a single document to provide both human-readable and structured, machine-readable data.|{{< emoticons/tick >}}| |
+|XBRL|Extensible Business Reporting Language.|{{< emoticons/tick >}}|{{< emoticons/tick >}}|
+|iXBRL|Inline XBRL.|{{< emoticons/tick >}}|{{< emoticons/tick >}}|
+|XLSX|Office Open XML SpreadsheetML Workbook or template file, with or without macros.| |{{< emoticons/tick >}}|
+|OFX|Open Financial Exchange, XML format.|{{< emoticons/tick >}}|{{< emoticons/tick >}}|
+|OFX Version 1|Open Financial Exchange version 1.0~1.6, SGML format.|{{< emoticons/tick >}}|{{< emoticons/tick >}}|
