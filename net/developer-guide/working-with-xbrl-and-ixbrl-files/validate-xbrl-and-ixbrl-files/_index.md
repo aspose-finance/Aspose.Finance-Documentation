@@ -1,5 +1,7 @@
 ---
 title: Validate XBRL and iXBRL files
+keywords: xbrl taxonomy,xbrl,ixbrl,xbrl linkbases,xbrl Instances
+description: XBRL Instances, XBRL Linkbases, and XBRL Taxonomy Schemas MUST comply with the syntax requirements imposed in XBRL specification
 type: docs
 weight: 30
 url: /net/validate-xbrl-and-ixbrl-files/
@@ -58,7 +60,7 @@ The following are the error code definitions:
 - PresentationArcToNotFound: Unable to find a Presentation arc to Loc.
 - ReferenceArcFromNotFound: Unable to find a Reference arc from Loc.
 - ReferenceArcToNotFound: Unable to find a Reference arc to Loc.
-##### **Example of standard validation error message**
+### **Example of standard validation error message**
 ![todo:image_alt_text](validate-xbrl-and-ixbrl-files_1.png)
 
 Above is an XBRL instance, it defines context “cd1”, this context period type is duration, it’s start date is 2002-03-31, the end date is 2001-03-31, so the end date is before than start date. In XBRL specification, chapter 4.7.2, it defines validation rule: “the endDate MUST specify or imply a point in time that is later than the specified or implied point in time of the corresponding startDate”. According to this rule, this XBRL instance is not a valid one.

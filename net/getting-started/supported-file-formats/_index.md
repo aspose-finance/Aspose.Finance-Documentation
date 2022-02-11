@@ -1,5 +1,7 @@
 ---
 title: Supported File Formats
+keywords: finance,xbrl,ixbrl,xlsx,ofx
+description: It supports xbrl, ixbrl, xlsx, ofx
 type: docs
 weight: 20
 url: /net/supported-file-formats/

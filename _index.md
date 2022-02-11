@@ -1,5 +1,7 @@
 ---
 title: Aspose.Finance Product Family
+keywords: finance,xbrl,ixbrl,.net,dotnet,java
+description: It provides much better performance and ease of use to manipulate finance-related formats, such as XBRL, iXBRL using various programming languages.
 type: docs
 weight: 10
 url: /
