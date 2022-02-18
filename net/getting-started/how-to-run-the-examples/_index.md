@@ -6,7 +6,7 @@ url: /net/how-to-run-the-examples/
 ---
 
 ## **Download from GitHub**
-All examples of Aspose.OCR for .NET are hosted on [GitHub](https://github.com/aspose-finance/Aspose.Finance-for-.NET).
+All examples of Aspose.Finance for .NET are hosted on [GitHub](https://github.com/aspose-finance/Aspose.Finance-for-.NET).
 
 - You can either clone the repository using your favorite GitHub client or download the ZIP file from [here](https://github.com/aspose-finance/Aspose.Finance-for-.NET/archive/master.zip).
 - Extract the contents of the ZIP file to any folder on your computer. All the examples are located in the **Examples** folder.
