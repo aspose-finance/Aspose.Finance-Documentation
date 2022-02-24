@@ -15,7 +15,7 @@ url: /
 
 {{% alert color="primary" %}}
 
-**![Aspose.Finance for .NET Product Logo](home_1.png)**
+<img src="home_1.png" style="width:64px;height:64px;" alt="Aspose.Finance for .NET Product Logo" />
 
 <h2>Welcome to Aspose.Finance for .NET</h2>
 
