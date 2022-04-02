@@ -23,5 +23,5 @@ This page contains release notes for Aspose.Finance for .NET 22.4.
 |FINANCENET-138|XBRL Parser is not picking up detailed fact/node data but only hi level data |Bug|
 |FINANCENET-142|Improve xbrl schema parser handler|Improvement|
 |FINANCENET-143|Improve xbrl schema download to support tls1.2 |Improvement|
-|FINANCENET-144|Add Items property in XbrlInstance class |Bug|
+|FINANCENET-144|Add Items property in XbrlInstance class |Improvement|
 
