@@ -15,9 +15,10 @@ This page contains release notes for Aspose.Finance for .NET 22.4.
 
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |
-|FINANCENET-115|Implement vaildation rule of the element of continution in ixbrl|Bug|
+|FINANCENET-115|Can not generate typedMember element|Bug|
 |FINANCENET-116|Use the original namespace prefix when generating files instead of regenerating the prefix|Improvement|
 |FINANCENET-119|Fix the bug that concept gets the wrong XbrlNamespaceUri|Bug|
+|FINANCENET-135|Improve xbrl to html report feature|Improvement|
 |FINANCENET-137|Issue when setting embedded license to ‘Produce Single file’ in .NET 6.0 application |Bug|
 |FINANCENET-138|XBRL Parser is not picking up detailed fact/node data but only hi level data |Bug|
 |FINANCENET-142|Improve xbrl schema parser handler|Improvement|
