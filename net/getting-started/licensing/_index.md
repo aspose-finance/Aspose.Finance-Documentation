@@ -1,5 +1,6 @@
 ---
 title: Licensing
+second_title: Aspose.Finance for .NET
 type: docs
 weight: 50
 url: /net/licensing/
