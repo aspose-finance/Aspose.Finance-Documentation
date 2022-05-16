@@ -3,6 +3,7 @@ title: Installation
 type: docs
 weight: 60
 url: /net/installation/
+description: Learn about Installation of C# Finance Library API using NuGet and Package Manager GUI or Console.
 ---
 
 ## **Installing Aspose.Finance for .NET**
