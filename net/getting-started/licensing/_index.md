@@ -3,7 +3,7 @@ title: Licensing
 type: docs
 weight: 50
 url: /net/licensing/
-description: Aspose.Finance for .NET invites its customers to get a Classic license and Metered License. As well as use a limited license to better explore the product.
+description: C# Finance Library API invites its customers to get a Classic license and Metered License. As well as use a limited license to better explore the product.
 ---
 
 ## **Evaluate Aspose.Finance**
