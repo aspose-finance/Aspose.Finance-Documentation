@@ -1,8 +1,10 @@
 ---
 title: System Requirements
+second_title: Aspose.Finance for .NET
 type: docs
 weight: 50
 url: /net/system-requirements/
+description: Learn about System Requirements of C# Finance Library API on Windows OS and .NET Frameworks.
 ---
 
 ## **Supported Operating Systems**
