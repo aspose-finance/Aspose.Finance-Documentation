@@ -4,7 +4,7 @@ linktitle: Feature List
 type: docs
 weight: 20
 url: /net/feature-list/
-description: This page describes the feature list of Aspose.Finance library, including xbrl, ixbrl(inline xbrl), ofx.
+description: C# Finance Library API features include create, read, write, validate documents including XBRL, iXBRL, OFX request and response.
 ---
 
 
