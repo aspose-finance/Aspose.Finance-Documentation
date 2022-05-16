@@ -1,7 +1,7 @@
 ---
 title: Product Overview
 keywords: finance,xbrl,icbrl,.net,dotnet,C#
-description: It provides much better performance and ease of use to manipulate finance-related formats, such as XBRL, iXBRL using .NET
+description: C# Finance Library API provides much better performance and ease of use to manipulate finance-related formats, such as XBRL, iXBRL.
 type: docs
 weight: 10
 url: /net/product-overview/
