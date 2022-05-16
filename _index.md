@@ -7,7 +7,7 @@ keywords:
     - ofx
     - .net
     - dotnet
-description: C# Finance Api or Library provides much better performance and ease of use to manipulate finance-related formats, such as XBRL, iXBRL, OFX.
+description: C# Finance API or Library provides much better performance and ease of use to manipulate finance-related formats, such as XBRL, iXBRL, OFX.
 type: docs
 weight: 10
 url: /
