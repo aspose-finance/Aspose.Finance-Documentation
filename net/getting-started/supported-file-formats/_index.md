@@ -1,10 +1,10 @@
 ---
 title: Supported File Formats
 keywords: finance,xbrl,ixbrl,xlsx,ofx
-description: It supports xbrl, ixbrl, xlsx, ofx
 type: docs
 weight: 20
 url: /net/supported-file-formats/
+description: C# Finance Library API supports file formats including XBRL, iXBRL, XLSX and OFX. 
 ---
 
 |**Format**|**Description**|**Load**|**Save**|
