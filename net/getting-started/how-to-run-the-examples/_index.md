@@ -3,6 +3,7 @@ title: How to Run the Examples
 type: docs
 weight: 70
 url: /net/how-to-run-the-examples/
+description: Download and run the C# Finance Library API examples from GitHub
 ---
 
 ## **Download from GitHub**
