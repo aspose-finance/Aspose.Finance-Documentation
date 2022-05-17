@@ -1,5 +1,6 @@
 ---
-title: Convert OFX Request and Response Files
+title: Convert OFX Request and Response Files in C# API
+linktitle: Convert OFX Request and Response Files
 type: docs
 weight: 20
 url: /net/convert-ofx-request-and-response-files/
