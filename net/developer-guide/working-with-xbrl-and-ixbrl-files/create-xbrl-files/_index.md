@@ -1,11 +1,13 @@
 ---
-title: Create XBRL files
+title: Create XBRL file in C#
+linktitle: Create XBRL files
 type: docs
 weight: 10
 url: /net/create-xbrl-files/
+description: C# Finance Library API supports creating XBRL documents, add schema and context reference.
 ---
 
-## **Create XBRL Instance**
+## **Create XBRL Instance in C#**
 Aspose.Finance supports creating XBRL documents. For this, the API provides the XbrlDocument class. The default constructor of the [XbrlDocument](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrldocument) class can be used to create a new XBRL instance document.
 
 The following code snippet demonstrates creating a new XBRL instance document.
