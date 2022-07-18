@@ -55,7 +55,7 @@ Aspose.Finance, as a pure .NET library provides much better performance and ease
 			<ul>
 				<li><a href="/finance/net/working-with-ofx-files/">Working with OFX Files</a></li>
 				<li><a href="/finance/net/working-with-xbrl-and-ixbrl-files/">Working with XBRL and iXBRL files</a></li>
-				<li><a href="https://apireference.aspose.com/finance/net">Aspose.Finance for .NET API Reference Guide</a></li>
+				<li><a href="https://reference.aspose.com/finance/net">Aspose.Finance for .NET API Reference Guide</a></li>
 			</ul>	
 			<p>Technical Support</p>
 			<ul>

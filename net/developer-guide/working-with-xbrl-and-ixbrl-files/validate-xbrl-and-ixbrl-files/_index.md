@@ -9,19 +9,19 @@ url: /net/validate-xbrl-and-ixbrl-files/
 ---
 
 ## **Validate XBRL instance file in C#**
-XBRL Instances, XBRL Linkbases, and XBRL Taxonomy Schemas MUST comply with the syntax requirements imposed in [XBRL specification](http://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31+corrected-errata-2013-02-20.html). To validate these, the [XbrlInstance](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrlinstance) class provides the [Validate()](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrlinstance/methods/validate) method.
+XBRL Instances, XBRL Linkbases, and XBRL Taxonomy Schemas MUST comply with the syntax requirements imposed in [XBRL specification](http://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31+corrected-errata-2013-02-20.html). To validate these, the [XbrlInstance](https://reference.aspose.com/finance/net/aspose.finance.xbrl/xbrlinstance) class provides the [Validate()](https://reference.aspose.com/finance/net/aspose.finance.xbrl/xbrlinstance/methods/validate) method.
 
 The following C# code snippet demonstrates how to validate an XBRL instance document.
 
 {{< gist "aspose-com-gists" "d3d183d03a9cc8e4ce248a95919a6cff" "ValidateXbrlInstance.cs" >}}
 ## **Validate iXBRL file in C#**
-The [iXBRL specification](http://www.xbrl.org/specification/inlinexbrl-part1/rec-2013-11-18/inlinexbrl-part1-rec-2013-11-18.html) defines many validation rules. For validating iXBRL files, the [InlineXbrlDocument](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinexbrldocument) class provides a [Validate()](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinexbrldocument/methods/validate) method.
+The [iXBRL specification](http://www.xbrl.org/specification/inlinexbrl-part1/rec-2013-11-18/inlinexbrl-part1-rec-2013-11-18.html) defines many validation rules. For validating iXBRL files, the [InlineXbrlDocument](https://reference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinexbrldocument) class provides a [Validate()](https://reference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinexbrldocument/methods/validate) method.
 
 The following C# code snippet demonstrates validating an iXBRL instance document.
 
 {{< gist "aspose-com-gists" "d3d183d03a9cc8e4ce248a95919a6cff" "ValidateIxbrlInstance.cs" >}}
 ## **Validation error codes**
-In the enum [ValidationErrorCode](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.validator/validationerrorcode), validation error codes are defined for each validation rule. 
+In the enum [ValidationErrorCode](https://reference.aspose.com/finance/net/aspose.finance.xbrl.validator/validationerrorcode), validation error codes are defined for each validation rule. 
 The following are the error code definitions:
 
 - ContextPeriodNoStartTime: Context period type is duration, but has no start date.
