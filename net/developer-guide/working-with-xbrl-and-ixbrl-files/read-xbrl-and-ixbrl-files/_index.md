@@ -8,13 +8,13 @@ description: C# Finance Library API supports reading XBRL and iXBRL files, for m
 ---
 
 ## **Read XBRL instance file in C#**
-Aspose.Finance supports reading XBRL documents. For this, you can use the [XbrlDocument](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrldocument) class by passing the name of a valid XBRL instance file as a parameter.
+Aspose.Finance supports reading XBRL documents. For this, you can use the [XbrlDocument](https://reference.aspose.com/finance/net/aspose.finance.xbrl/xbrldocument) class by passing the name of a valid XBRL instance file as a parameter.
 
 The following C# code snippet demonstrates reading an XBRL instance document.
 
 {{< gist "aspose-com-gists" "d3d183d03a9cc8e4ce248a95919a6cff" "ReadXbrlDocument.cs" >}}
 ## **Read iXBRL file in C#**
-Aspose.Finance supports reading iXBRL instance documents. For this, the API provides the [InlineXbrlDocument](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinexbrldocument) class. The constructor of the [InlineXbrlDocument](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinexbrldocument) class accepts the name of a valid iXBRL file.
+Aspose.Finance supports reading iXBRL instance documents. For this, the API provides the [InlineXbrlDocument](https://reference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinexbrldocument) class. The constructor of the [InlineXbrlDocument](https://reference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinexbrldocument) class accepts the name of a valid iXBRL file.
 
 The following C# code snippet demonstrates reading an iXBRL instance document.
 

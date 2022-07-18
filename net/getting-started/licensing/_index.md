@@ -38,7 +38,7 @@ Follow these simple rules:
 - Do not call SetLicense from within the Page_Load methods since it means the license will be loaded every time a web page is loaded.
 - If you are developing a class library, you call SetLicense from a static constructor of the class that uses Aspose.Finance. The static constructor executes before an instance of your class is created making sure Aspose.Finance license is properly set.
 ### **Apply License using File or Stream Object**
-Use the [License.SetLicense](https://apireference.aspose.com/finance/net/aspose.finance/license) method to license the component. The easiest way to set a license is to put the license file in the same folder as the Aspose.Finance.dll and specify the filename, without a path, as shown below.
+Use the [License.SetLicense](https://reference.aspose.com/finance/net/aspose.finance/license) method to license the component. The easiest way to set a license is to put the license file in the same folder as the Aspose.Finance.dll and specify the filename, without a path, as shown below.
 #### **Loading a License from File**
 This code snippet initializes a license stored in a file or in an embedded resource.
 
@@ -82,7 +82,7 @@ public static void SetLicenseFromStream()
 ## **Apply Metered License**
 Aspose.Finance for .NET API allows developers to apply metered license. It is a new licensing mechanism. The new licensing mechanism will be used along with existing licensing method. Those customers who want to be billed based on the usage of the API features can use the metered licensing. For more details, please refer to [Metered Licensing FAQ](https://purchase.aspose.com/faqs/licensing/metered) section.
 
-A new class [Metered](https://apireference.aspose.com/finance/net/aspose.finance/metered) has been added to apply metered key. This code example demonstrates how to set metered public and private keys:
+A new class [Metered](https://reference.aspose.com/finance/net/aspose.finance/metered) has been added to apply metered key. This code example demonstrates how to set metered public and private keys:
 
 ```csharp
 public static void SetMeteredLicense()
