@@ -1,7 +1,7 @@
 ---
 title: Aspose.Finance for .NET 22.7 Release Notes
 type: docs
-weight: 30
+weight: 20
 url: /net/aspose-finance-for-net-22-7-release-notes/
 ---
 
