@@ -17,4 +17,4 @@ This page contains release notes for Aspose.Finance for .NET 22.8.
 | :- | :- | :- |
 |FINANCENET-217|Improve validation rules for continuation element |Improvement|
 |FINANCENET-216|Improve validation rules for exclude element |Improvement|
-|FINANCENET-215>|Improve validation rules for footnote element |Improvement|
+|FINANCENET-215|Improve validation rules for footnote element |Improvement|
