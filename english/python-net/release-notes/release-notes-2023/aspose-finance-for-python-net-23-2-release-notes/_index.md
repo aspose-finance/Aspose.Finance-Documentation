@@ -1,13 +1,14 @@
 ---
-title: Aspose.Finance for .NET 23.2 Release Notes
+title: Aspose.Finance for  Python via .NET 23.2 Release Notes
 type: docs
 weight: 49
-url: /net/aspose-finance-for-net-23-2-release-notes/
+url: /python-net/aspose-finance-for-python-via-net-23-2-release-notes/
 ---
 
 {{% alert color="primary" %}}
 
-This page contains release notes for Aspose.Finance for .NET 23.2.
+This page contains release notes for Aspose.Finance for Python via .NET 23.2.
+
 
 {{% /alert %}}
 
