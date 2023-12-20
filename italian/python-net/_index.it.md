@@ -8,9 +8,9 @@ weight: 10
 url: /it/python-net/
 is_root: true
 aliases:
-  - /python-net/working-with-aspose-finance/ 
+  - /python-net/working-with-aspose-finance/
 ---
-{{% alert color="primary" %}} 
+{{% alert color="primary" %}}
 
 <img src="home_1.png" style="width:64px;height:64px;" alt="Aspose.Finance for Python via .NET Product Logo" />
 
@@ -26,7 +26,7 @@ Aspose.Finance, come una libreria Python pura, offre prestazioni molto migliori 
 			<hr><p>Panoramica</p></hr>
 			<ul>
 				<li><a href="/finance/it/python-net/product-overview/">Panoramica del Prodotto</a></li>
-			  <li><a href="/finance/it/python-net/release-notes/">Aspose.Finance per Python tramite .NET Note di rilascio</a></li>
+			  <li><a href="https://releases.aspose.com/finance/python-net/release-notes/">Aspose.Finance per Python tramite .NET Note di rilascio</a></li>
 			</ul>            
 	        <p>Risorse utili</p>
 			<ul>
@@ -52,7 +52,7 @@ Aspose.Finance, come una libreria Python pura, offre prestazioni molto migliori 
 			<ul>
 				<li><a href="/finance/it/python-net/working-with-ofx-files/">Lavorare con i file OFX</a></li>
 				<li><a href="/finance/it/python-net/working-with-xbrl-and-ixbrl-files/">Utilizzo dei file XBRL e iXBRL</a></li>
-			</ul>	
+			</ul>
 			<p>Supporto tecnico</p>
 			<ul>
 				<li><a href="https://forum.aspose.com/c/finance/43">Aspose.Finance Forum di supporto gratuito</a></li>

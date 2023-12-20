@@ -8,9 +8,9 @@ weight: 10
 url: /ru/net/
 is_root: true
 aliases:
-  - /net/working-with-aspose-finance/ 
+  - /net/working-with-aspose-finance/
 ---
-{{% alert color="primary" %}} 
+{{% alert color="primary" %}}
 
 <img src="home_1.png" style="width:64px;height:64px;" alt="Aspose.Finance for .NET Product Logo" />
 
@@ -26,7 +26,7 @@ Aspose.Finance, поскольку чистая библиотека .NET обе
 			<hr><p>Обзор</p></hr>
 			<ul>
 				<li><a href="/finance/ru/net/product-overview/">Обзор продукта</a></li>
-			  <li><a href="/finance/ru/net/release-notes/">Aspose.Finance for .NET Примечания к выпуску</a></li>
+			  <li><a href="https://releases.aspose.com/ru/finance/net/release-notes/">Aspose.Finance for .NET Примечания к выпуску</a></li>
 			</ul>            
 	        <p>Полезные ресурсы</p>
 			<ul>
@@ -54,7 +54,7 @@ Aspose.Finance, поскольку чистая библиотека .NET обе
 				<li><a href="/finance/ru/net/working-with-ofx-files/">Работа с файлами OFX</a></li>
 				<li><a href="/finance/ru/net/working-with-xbrl-and-ixbrl-files/">Работа с файлами XBRL и iXBRL</a></li>
 				<li><a href="https://reference.aspose.com/finance/net">Aspose.Finance for .NET API Справочное руководство</a></li>
-			</ul>	
+			</ul>
 			<p>Техническая поддержка</p>
 			<ul>
 				<li><a href="https://forum.aspose.com/c/finance/43">Aspose.Finance for .NET Форум бесплатной поддержки</a></li>

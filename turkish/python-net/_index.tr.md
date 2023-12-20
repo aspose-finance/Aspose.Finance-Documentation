@@ -8,9 +8,9 @@ weight: 10
 url: /tr/python-net/
 is_root: true
 aliases:
-  - /python-net/working-with-aspose-finance/ 
+  - /python-net/working-with-aspose-finance/
 ---
-{{% alert color="primary" %}} 
+{{% alert color="primary" %}}
 
 <img src="home_1.png" style="width:64px;height:64px;" alt="Aspose.Finance for Python via .NET Product Logo" />
 
@@ -26,7 +26,7 @@ Saf bir Python kitaplığı olarak Aspose.Finance, XBRL, iXBRL, OFX gibi finansl
 			<hr><p>genel bakış</p></hr>
 			<ul>
 				<li><a href="/finance/tr/python-net/product-overview/">Ürüne Genel Bakış</a></li>
-			  <li><a href="/finance/tr/python-net/release-notes/">.NET aracılığıyla Python için Aspose.Finance Sürüm Notları</a></li>
+			  <li><a href="https://releases.aspose.com/tr/finance/python-net/release-notes/">.NET aracılığıyla Python için Aspose.Finance Sürüm Notları</a></li>
 			</ul>            
 	        <p>Yararlı Kaynaklar</p>
 			<ul>
@@ -52,7 +52,7 @@ Saf bir Python kitaplığı olarak Aspose.Finance, XBRL, iXBRL, OFX gibi finansl
 			<ul>
 				<li><a href="/finance/tr/python-net/working-with-ofx-files/">OFX Dosyalarıyla Çalışma</a></li>
 				<li><a href="/finance/tr/python-net/working-with-xbrl-and-ixbrl-files/">XBRL ve iXBRL dosyalarıyla çalışma</a></li>
-			</ul>	
+			</ul>
 			<p>Teknik Destek</p>
 			<ul>
 				<li><a href="https://forum.aspose.com/c/finance/43">Aspose.Finance Ücretsiz Destek Forumu</a></li>

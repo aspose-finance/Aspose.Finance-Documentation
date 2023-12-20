@@ -27,7 +27,7 @@ Saf bir .NET kitaplığı olarak Aspose.Finance, XBRL, iXBRL, OFX gibi finansla 
 Aşağıda, görevlerinizi gerçekleştirmek için ihtiyaç duyabileceğiniz bazı yararlı kaynakların bağlantıları bulunmaktadır.
 
 - [Aspose.Finance for .NET Çevrimiçi Dokümantasyon](/finance/tr/net/)
-- [Aspose.Finance for .NET Sürüm Notları](/finance/tr/net/release-notes/)
+- [Aspose.Finance for .NET Sürüm Notları](https://releases.aspose.com/tr/finance/net/release-notes/)
 - [Aspose.Finance for .NET Ürün Sayfası](https://products.aspose.com/finance/net)
 - [Aspose.Finance for .NET yükleyin](/finance/tr/net/installation/)
 - [Aspose.Finance for .NET API Başvuru Kılavuzu](https://reference.aspose.com/finance/net)
@@ -49,7 +49,7 @@ Bir Python kitaplığı olarak Python aracılığıyla Python için Aspose.Finan
 Aşağıda, görevlerinizi gerçekleştirmek için ihtiyaç duyabileceğiniz bazı yararlı kaynakların bağlantıları bulunmaktadır.
 
 - [.NET üzerinden Python için Aspose.Finance Çevrimiçi Belgeler](/finance/tr/python-net/)
-- [.NET aracılığıyla Python için Aspose.Finance Sürüm Notları](/finance/tr/python-net/release-notes/)
+- [.NET aracılığıyla Python için Aspose.Finance Sürüm Notları](https://releases.aspose.com/tr/finance/python-net/release-notes/)
 - [.NET Ürün Sayfası aracılığıyla Python için Aspose.Finance](https://products.aspose.com/finance/python-net)
 - [.NET aracılığıyla Python için Aspose.Finance'i kurun](/finance/tr/python-net/installation/)
 - [.NET Ücretsiz Destek Forumu aracılığıyla Python için Aspose.Finance](https://forum.aspose.com/c/finance)

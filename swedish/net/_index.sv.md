@@ -8,9 +8,9 @@ weight: 10
 url: /sv/net/
 is_root: true
 aliases:
-  - /net/working-with-aspose-finance/ 
+  - /net/working-with-aspose-finance/
 ---
-{{% alert color="primary" %}} 
+{{% alert color="primary" %}}
 
 <img src="home_1.png" style="width:64px;height:64px;" alt="Aspose.Finance for .NET Product Logo" />
 
@@ -26,7 +26,7 @@ Aspose.Finance, som ett rent .NET-bibliotek ger mycket bättre prestanda och enk
 			<hr><p>Översikt</p></hr>
 			<ul>
 				<li><a href="/finance/sv/net/product-overview/">Produktöversikt</a></li>
-			  <li><a href="/finance/sv/net/release-notes/">Aspose.Finance for .NET Release Notes</a></li>
+			  <li><a href="https://releases.aspose.com/finance/net/release-notes/">Aspose.Finance for .NET Release Notes</a></li>
 			</ul>            
 	        <p>Användbara resurser</p>
 			<ul>
@@ -54,7 +54,7 @@ Aspose.Finance, som ett rent .NET-bibliotek ger mycket bättre prestanda och enk
 				<li><a href="/finance/sv/net/working-with-ofx-files/">Arbeta med OFX filer</a></li>
 				<li><a href="/finance/sv/net/working-with-xbrl-and-ixbrl-files/">Arbetar med XBRL och iXBRL filer</a></li>
 				<li><a href="https://reference.aspose.com/finance/net">Aspose.Finance for .NET API Referensguide</a></li>
-			</ul>	
+			</ul>
 			<p>Teknisk support</p>
 			<ul>
 				<li><a href="https://forum.aspose.com/c/finance/43">Aspose.Finance for .NET Gratis supportforum</a></li>

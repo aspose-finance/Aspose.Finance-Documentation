@@ -27,7 +27,7 @@ Aspose.Finance，作为一个纯 .NET 库提供了更好的性能和易用性来
 以下是您完成任务可能需要的一些有用资源的链接。
 
 - [Aspose.Finance for .NET 在线文档](/finance/zh/net/)
-- [Aspose.Finance for .NET 发行说明](/finance/zh/net/release-notes/)
+- [Aspose.Finance for .NET 发行说明](https://releases.aspose.com/zh/finance/net/release-notes/)
 - [Aspose.Finance for .NET 产品页面](https://products.aspose.com/finance/net)
 - [安装 Aspose.Finance for .NET](/finance/zh/net/installation/)
 - [Aspose.Finance for .NET API 参考指南](https://reference.aspose.com/finance/net)
@@ -49,7 +49,7 @@ Aspose.Finance 通过 .NET 为 Python，作为 Python 库提供更好的性能�
 以下是您完成任务可能需要的一些有用资源的链接。
 
 - [Aspose.Finance 为 Python 通过 .NET 在线文档](/finance/zh/python-net/)
-- [Aspose.Finance 为 Python 通过 .NET 发行说明](/finance/zh/python-net/release-notes/)
+- [Aspose.Finance 为 Python 通过 .NET 发行说明](https://releases.aspose.com/zh/finance/python-net/release-notes/)
 - [Aspose.Finance 对于 Python 通过 .NET 产品页面](https://products.aspose.com/finance/python-net)
 - [通过 .NET 为 Python 安装 Aspose.Finance](/finance/zh/python-net/installation/)
 - [Aspose.Finance Python 通过 .NET 免费支持论坛](https://forum.aspose.com/c/finance)

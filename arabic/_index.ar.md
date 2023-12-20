@@ -27,7 +27,7 @@ Aspose.Finance ، كمكتبة .NET نقية ، توفر أداءً أفضل ب�
 فيما يلي روابط لبعض الموارد المفيدة التي قد تحتاجها لإنجاز مهامك.
 
 - [Aspose.Finance for .NET التوثيق عبر الإنترنت](/finance/ar/net/)
-- [Aspose.Finance for .NET ملاحظات الإصدار](/finance/ar/net/release-notes/)
+- [Aspose.Finance for .NET ملاحظات الإصدار](https://releases.aspose.com/finance/net/release-notes/)
 - [Aspose.Finance for .NET صفحة المنتج](https://products.aspose.com/finance/net)
 - [قم بتثبيت Aspose.Finance for .NET](/finance/ar/net/installation/)
 - [Aspose.Finance for .NET API الدليل المرجعي](https://reference.aspose.com/finance/net)
@@ -49,7 +49,7 @@ Aspose.Finance لـ Python عبر .NET ، حيث توفر مكتبة Python أد
 فيما يلي روابط لبعض الموارد المفيدة التي قد تحتاجها لإنجاز مهامك.
 
 - [Aspose.Finance لـ Python عبر .NET التوثيق عبر الإنترنت](/finance/ar/python-net/)
-- [Aspose.Finance لـ Python عبر .NET ملاحظات الإصدار](/finance/ar/python-net/release-notes/)
+- [Aspose.Finance لـ Python عبر .NET ملاحظات الإصدار](https://releases.aspose.com/finance/python-net/release-notes/)
 - [Aspose.Finance لـ Python عبر .NET صفحة المنتج](https://products.aspose.com/finance/python-net)
 - [قم بتثبيت Aspose.Finance لـ Python عبر .NET](/finance/ar/python-net/installation/)
 - [Aspose.Finance لـ Python عبر .NET منتدى الدعم المجاني](https://forum.aspose.com/c/finance)

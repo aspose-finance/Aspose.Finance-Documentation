@@ -8,9 +8,9 @@ weight: 10
 url: /tr/net/
 is_root: true
 aliases:
-  - /net/working-with-aspose-finance/ 
+  - /net/working-with-aspose-finance/
 ---
-{{% alert color="primary" %}} 
+{{% alert color="primary" %}}
 
 <img src="home_1.png" style="width:64px;height:64px;" alt="Aspose.Finance for .NET Product Logo" />
 
@@ -26,7 +26,7 @@ Saf bir .NET kitaplığı olarak Aspose.Finance, XBRL, iXBRL, OFX gibi finansla 
 			<hr><p>genel bakış</p></hr>
 			<ul>
 				<li><a href="/finance/tr/net/product-overview/">Ürüne Genel Bakış</a></li>
-			  <li><a href="/finance/tr/net/release-notes/">Aspose.Finance for .NET Sürüm Notları</a></li>
+			  <li><a href="https://releases.aspose.com/tr/finance/net/release-notes/">Aspose.Finance for .NET Sürüm Notları</a></li>
 			</ul>            
 	        <p>Yararlı Kaynaklar</p>
 			<ul>
@@ -54,7 +54,7 @@ Saf bir .NET kitaplığı olarak Aspose.Finance, XBRL, iXBRL, OFX gibi finansla 
 				<li><a href="/finance/tr/net/working-with-ofx-files/">OFX Dosyalarıyla Çalışma</a></li>
 				<li><a href="/finance/tr/net/working-with-xbrl-and-ixbrl-files/">XBRL ve iXBRL dosyalarıyla çalışma</a></li>
 				<li><a href="https://reference.aspose.com/finance/net">Aspose.Finance for .NET API Başvuru Kılavuzu</a></li>
-			</ul>	
+			</ul>
 			<p>Teknik Destek</p>
 			<ul>
 				<li><a href="https://forum.aspose.com/c/finance/43">Aspose.Finance for .NET Ücretsiz Destek Forumu</a></li>

@@ -27,7 +27,7 @@ Aspose.Finance, som ett rent .NET-bibliotek ger mycket bättre prestanda och enk
 Följande är länkarna till några användbara resurser som du kan behöva för att utföra dina uppgifter.
 
 - [Aspose.Finance for .NET Onlinedokumentation](/finance/sv/net/)
-- [Aspose.Finance for .NET Release Notes](/finance/sv/net/release-notes/)
+- [Aspose.Finance for .NET Release Notes](https://releases.aspose.com/finance/net/release-notes/)
 - [Aspose.Finance for .NET Produktsida](https://products.aspose.com/finance/net)
 - [Installera Aspose.Finance for .NET](/finance/sv/net/installation/)
 - [Aspose.Finance for .NET API Referensguide](https://reference.aspose.com/finance/net)
@@ -49,7 +49,7 @@ Aspose.Finance för Python via .NET, eftersom ett Python-bibliotek ger mycket b�
 Följande är länkarna till några användbara resurser som du kan behöva för att utföra dina uppgifter.
 
 - [Aspose.Finance för Python via .NET Onlinedokumentation](/finance/sv/python-net/)
-- [Aspose.Finance för Python via .NET Release Notes](/finance/sv/python-net/release-notes/)
+- [Aspose.Finance för Python via .NET Release Notes](https://releases.aspose.com/finance/python-net/release-notes/)
 - [Aspose.Finance för Python via .NET Produktsida](https://products.aspose.com/finance/python-net)
 - [Installera Aspose.Finance för Python via .NET](/finance/sv/python-net/installation/)
 - [Aspose.Finance för Python via .NET Gratis supportforum](https://forum.aspose.com/c/finance)
